@@ -1,5 +1,5 @@
-baseurl      = ""
-title        = "My-site"
+baseurl      = "https://kevincjy.github.io/"
+title        = "Hello World"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
