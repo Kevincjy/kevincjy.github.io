@@ -21,7 +21,7 @@ https://www.linkedin.com/in/kevinchenjaya
 - #### Freelance Web Developer
 
   Jaya disk, Jakarta  
-  Dec 2023 - 2024  
+  Dec 2023 - Feb 2024  
   Designed static e-commerce website using React.js.
 
 - #### Graphic Designer
