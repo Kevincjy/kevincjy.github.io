@@ -54,10 +54,6 @@ paginate     = 10
     name = "github"
     url = "https://github.com/Kevincjy"
 
-    [[params.social]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/kevinchenjaya"
-
   # And you can even create generic menu
   [[menu.main]]
     identifier = "about"
