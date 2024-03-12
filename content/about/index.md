@@ -3,7 +3,8 @@ title = "about me"
 +++
 
 I'm a passionate front-end developer with a strong foundation in web development principles. I'm proficient in HTML, CSS frameworks, and JavaScript, particularly enjoying working with React.js to build interactive experiences.  
-https://www.linkedin.com/in/kevinchenjaya
+Portofolio: https://github.com/kevincjy  
+Linkedin: https://www.linkedin.com/in/kevinchenjaya
 
 ## Education
 
